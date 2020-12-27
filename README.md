@@ -1,6 +1,6 @@
 # **👋 Hey, I'm Ritesh Aher.**
 ### I'm a Software Engineer.
-![hey there](https://github.com/riteshaher/riteshaher/blob/main/hey%20there.gif)
+![image](./hey there.gif)
 <!--
 **riteshaher/riteshaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
