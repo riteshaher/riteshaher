@@ -1,4 +1,4 @@
-![image](./gipy.gif)# **👋I'm Ritesh Aher.**
+x)# **👋![image](./gipy.gif)I'm Ritesh Aher.**
 ### I'm a Software Engineer.
 ![image](./damn.gif)
 <!--
