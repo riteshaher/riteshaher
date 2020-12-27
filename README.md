@@ -1,4 +1,4 @@
-![image](./hey there.gif )
+![image](./hey there.gif)
 # **👋 Hey, I'm Ritesh Aher.**
 
 ### I'm a Software Engineer/Frontend Developer.
