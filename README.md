@@ -1,7 +1,6 @@
-![image](./hey there.gif)
 # **👋 Hey, I'm Ritesh Aher.**
-
 ### I'm a Software Engineer.
+![image](./hey there.gif)
 <!--
 **riteshaher/riteshaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
