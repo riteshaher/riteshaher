@@ -1,7 +1,12 @@
-![image](./giphy.gif)
-# **👋I'm Ritesh Aher.**
+# **👋Hey,I'm Ritesh Aher.**
 ### I'm a Software Engineer.
 ![image](./damn.gif)
+### Table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 <!--
 **riteshaher/riteshaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
